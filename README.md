@@ -1,7 +1,8 @@
 
 ### Hi there 👋, I'am Yonas Esubalew
 #### MERN Stack Alchemist | Full-Stack JavaScript Engineer | Your Idea + My Code = Digital Brilliance.
-![MERN Stack Alchemist | Full-Stack JavaScript Engineer | Your Idea + My Code = Digital Brilliance.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![MERN Stack Alchemist | Full-Stack JavaScript Engineer | Your Idea + My Code = Digital Brilliance.](Black and Purple Gradient Neon Futuristic Technology LinkedIn Banner (2).png
+)
 
 I am a **Full-Stack Product Designer & Digital Product Innovator**, shaping immersive digital landscapes with a fusion of artistry and technology. A seasoned **MERN** Stack specialist, I bring **three+** years of expertise in engineering scalable, high-performance web applications that don’t just function but captivate.
 
@@ -13,7 +14,7 @@ Skills: **React.js | Next.js | Three.js | Tailwind CSS | Bootstrap | Node.js | E
 
 
 ✍ **"If debugging is the process of removing bugs, then programming must be the process of putting them in."** 
-Edsger W. Dijkstra
+                                                                                           Edsger W. Dijkstra
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yonas-Esubalew)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yonas-esubalew-264b82342/)  
 
@@ -21,9 +22,7 @@ Edsger W. Dijkstra
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yonas-Esubalew)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas-Esubalew)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yonas-Esubalew&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yonas-Esubalew)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Yonas-Esubalew/contributions?format=svg&private=false)  
 
