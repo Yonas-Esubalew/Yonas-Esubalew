@@ -1,6 +1,6 @@
 
-### Hi there 👋, I'am Yonas Esubalew
-## MERN Stack Alchemist | Full-Stack JavaScript Engineer | Your Idea + My Code = Digital Brilliance.
+# Hi there 👋, I'am Yonas Esubalew
+### MERN Stack Alchemist | Full-Stack JavaScript Engineer | Your Idea + My Code = Digital Brilliance.
 ![MERN Stack Alchemist | Full-Stack JavaScript Engineer | Your Idea + My Code = Digital Brilliance.](https://github.com/Yonas-Esubalew/Yonas-Esubalew/blob/main/Black%20and%20Purple%20Gradient%20Neon%20Futuristic%20Technology%20LinkedIn%20Banner%20(2).png)
 
 I am a **Full-Stack Product Designer & Digital Product Innovator**, shaping immersive digital landscapes with a fusion of artistry and technology. A seasoned **MERN** Stack specialist, I bring **three+** years of expertise in engineering scalable, high-performance web applications that don’t just function but captivate.
