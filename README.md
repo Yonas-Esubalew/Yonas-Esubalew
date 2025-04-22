@@ -1,6 +1,7 @@
 
 # Hi there 👋, I'am Yonas Esubalew
-![Profile Banner](https://github.com/Yonas-Esubalew/Yonas-Esubalew/blob/main/1.png?raw=true)
+![GitHub Banner](https://raw.githubusercontent.com/Yonas-Esubalew/Yonas-Esubalew/main/Github%20Banner.png)
+
 
 ### MERN Stack Alchemist | Full-Stack JavaScript Engineer | Your Idea + My Code = Digital Brilliance.
 
